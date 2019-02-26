@@ -2,22 +2,28 @@
 #### 简介
 - 学校：华中科技大学文华学院(专科)
 - 专业：计算机应用与技术
-- 工作经验：3年
-- github：yujinpan(0star)
+- 工作经验：3年7个月
 
 #### 技能
-- 掌握基本语言Javascript，Html/H5，CSS/CSS3
-- 掌握框架Angularjs及其 $digest，Scope，Scope Event，AST等原理（在Build your own Angularjs中学到），和复杂组件化开发，性能优化
-- 掌握DOM性能优化，代码性能优化，模块结构优化
-- 掌握库jQuery及其基本原理
+- 掌握基本语言JavaScript，Html/H5，CSS/CSS3
+- 掌握框架Angularjs，Vue
+- 熟悉框架Angular，React
+- 熟悉TypeScript
+- 熟悉RxJS
 - 熟练构建工具Webpack
 - 熟练版本管理工具Git
 - 熟练ES6基本语法
 - 熟练Less基本语法
 - 像素眼
 
+#### 社交网站
+- GitHub - https://github.com/yujinpan
+- Stack overflow - https://stackoverflow.com/users/10916226/yujinpan
+- Greasy Fork - https://greasyfork.org/zh-CN/users/226081-yujinpan
+- Pluralsight - https://app.pluralsight.com/profile/yujinpan
+
 #### 工作经验
-##### 2016-05 至今 2年
+##### 2016-05 至今 2年10个月
 - 公司：北京思拓合众科技有限公司武汉分公司(CmsTop)
 - 部门：产品研发中心 - 平台应用组
 - 职位：Web前端
@@ -29,7 +35,7 @@
 
 这里产品研发采用标准的流程，开发组织架构为前后端分离多人协作方式，业务也非常复杂，非常多，所以团队协作，框架使用与Javascript能力都得到了提升。还有这里之前推崇的工程师文化很不错。
 
-##### 2015-07 至 2016-05 1年
+##### 2015-07 至 2016-05 10个月
 - 公司：湖北思创格科技有限公司
 - 部门：前端组
 - 职位：Web前端
