@@ -4,6 +4,7 @@
 - 专业：计算机应用与技术
 - 工作经验：3年8个月
 - 自我介绍：工作与生活中都比较独立，技术上比较偏深度。渴望发光发热。
+- 个人爱好：Angular，VS Code
 
 #### 技能
 - 掌握基本语言JavaScript，Html/H5，CSS/CSS3
@@ -28,9 +29,7 @@
 - 公司：北京思拓合众科技有限公司武汉分公司(CmsTop)
 - 部门：产品研发中心 - 平台应用组
 - 职位：Web前端
-- 主要使用技术：
-  JavaScript，AngularJS+Require+ngRoute+Bootstrap-ui，
-  Vue+Vuex+Vue-Router+axios+element-ui，Html5，CSS/CSS3，Git，Webpack
+- 主要使用技术：JavaScript，AngularJS+Require+ngRoute+Bootstrap-ui，Vue+Vuex+Vue-Router+axios+element-ui，Html5，CSS/CSS3，Git，Webpack
 - 主要工作内容：
 
 主要负责后台应用新功能开发与迭代维护的前端工作，产品的业务普遍非常的复杂，需要封装各种复杂的组件，并且需要优先考虑可维护性。
