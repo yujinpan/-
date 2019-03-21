@@ -6,6 +6,7 @@
 - 自我介绍：工作与生活中都比较独立，技术上比较偏深度。渴望发光发热。
 - 个人爱好：Angular，VS Code
 - 个人网站：yujinpan.top
+- 联系方式：17702722072 / 1192878390@qq.com
 
 #### 技能
 - 掌握基本语言JavaScript，Html/H5，CSS/CSS3
