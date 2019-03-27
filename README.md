@@ -6,28 +6,21 @@
 - 专业：计算机应用与技术
 - 工作经验：3 年 8 个月
 - 自我介绍：性格独立，善于耐心的解决问题。代码上注重规范，优化，效率等细节（环境搭建到打包，精雕细琢，必须最优解！）。渴望发光发热，写出完美的代码。
-- 个人网站：yujinpan.top
+- 网络用名：yujinpan （网站 yujinpan.top）
 - 联系方式：17702722072 / 1192878390@qq.com
 
-#### 技能
+#### 主要技能
 
-- 掌握基本语言 JavaScript，Html/H5，CSS/CSS3
-- 掌握框架 Angularjs，Vue
-- 熟悉框架 Angular，React
-- 熟悉 TypeScript
-- 熟悉 RxJS
+- 掌握基本语言 JavaScript/TypeScript，Html/H5，CSS/CSS3
+- 掌握 JavaScript 高级特性 - closure，prototype，OOP
+- 掌握 ES6 新特性
+- 掌握框架 Angularjs/Angular，Vue
+- 熟悉框架 React
+- 熟悉库 RxJS
 - 熟练构建工具 Webpack
 - 熟练版本管理工具 Git
-- 熟练 ES6 基本语法
 - 熟练 Less 基本语法
 - 像素眼
-
-#### 社交网站
-
-- GitHub - https://github.com/yujinpan
-- Stack overflow - https://stackoverflow.com/users/10916226/yujinpan
-- Greasy Fork - https://greasyfork.org/zh-CN/users/226081-yujinpan
-- Pluralsight - https://app.pluralsight.com/profile/yujinpan
 
 #### 工作经验
 
